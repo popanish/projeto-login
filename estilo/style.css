@@ -56,7 +56,7 @@ span{
     cursor: pointer;
 }
 
-#esqueci{
+#mail{
     margin-top: 10px;
     background-color: white;
     color: rgb(83, 83, 83);
@@ -68,12 +68,10 @@ span{
     font-size: 1.2em;
 
 }
-#esqueci:hover{
+#mail:hover{
     cursor: pointer;
 }
-#esqueci::after{
-    
-}
+
 #form{
     padding: 10px;
     font-size: 12px;
