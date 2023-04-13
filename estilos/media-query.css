@@ -7,6 +7,7 @@
     }
     #login{
         width: 80vw;
+        height: 270px;
     }
     #foto{
         float: left;
@@ -24,14 +25,23 @@
     }
     #login{
         width: 990px;
+        height: 350px;
     }
     #foto{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
     #form{
-        float: right;
+        float: left;
         width: 50%;
     }
+    #form > h1{
+        font-size: 2em;
+    }
+    #form > p{
+        font-size: 1.2em;
+        margin: 10px 0px;
+    }
+
 }
